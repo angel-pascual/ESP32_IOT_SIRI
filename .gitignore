@@ -1,0 +1,25 @@
+# --- PlatformIO ---
+.pio
+.pioenvs
+.piolibdeps
+
+# --- VS Code (Configuraciones locales de la PC) ---
+# Ignoramos toda la carpeta .vscode para evitar subir rutas de tu disco duro
+.vscode/
+
+# --- Archivos Binarios y Compilados ---
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.a
+
+# --- Basura del Sistema Operativo ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Python ---
+__pycache__/
+*.py[cod]
