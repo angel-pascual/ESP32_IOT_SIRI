@@ -50,7 +50,7 @@ Desarrollar una solución domótica robusta, económica y segura, aplicando prin
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-repo.git](https://github.com/tu-usuario/nombre-repo.git)
+    git clone [https://github.com/angel-pascual/ESP32_IOT_SIRI.git](https://github.com/angel-pascual/ESP32_IOT_SIRI.git)
     ```
 2.  **Abrir en PlatformIO:**
     Abrir la carpeta del proyecto en VS Code con la extensión PlatformIO instalada.
